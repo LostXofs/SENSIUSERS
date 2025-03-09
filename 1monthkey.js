@@ -1,4 +1,4 @@
-oopy() 
+loopy() 
  function loopy() { 
  var sWord ="@LostXofs" 
  while (sWord != "Blizzy") {// Pass
